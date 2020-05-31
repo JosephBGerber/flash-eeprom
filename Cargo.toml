@@ -1,0 +1,7 @@
+[package]
+name = "flash-eeprom"
+version = "0.1.0"
+authors = ["Joseph Gerber <josephbgerber@gmail.com>"]
+edition = "2018"
+license = "MIT/Apache-2.0"
+keywords = ["no-std", "embedded", "eeprom", "stm32"]
